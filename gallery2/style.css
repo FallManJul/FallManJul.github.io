@@ -1,0 +1,44 @@
+.square {
+height: 100px;
+width: 100px;
+background-color: blue;
+border-radius: 9px;
+transform: rotate(-45deg);
+border: 2px;
+border-width: 2px;
+border-style: solid;
+border-color: black;
+margin-left: 40px;
+margin-top: 40px;
+float: left;
+}
+
+.square1 {
+height: 80px;
+width: 80px;
+background-color: red;
+border-radius: 9px;
+transform: rotate(-45deg);
+border: 2px;
+border-width: 2px;
+border-style: solid;
+border-color: black;
+margin-left: 50px;
+margin-top: 50px;
+float: left;
+}
+
+.square2 {
+height: 60px;
+width: 60px;
+background-color: green;
+border-radius: 9px;
+transform: rotate(-45deg);
+border: 2px;
+border-width: 2px;
+border-style: solid;
+border-color: black;
+margin-left: 40px;
+margin-top: 60px;
+float: left;
+}

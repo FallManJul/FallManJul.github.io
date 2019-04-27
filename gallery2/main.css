@@ -1,0 +1,8 @@
+.square {
+height: :100px;
+width: 100px;
+background-color: #0000ff;
+border-radius: 9px;
+transform: rotate(-45deg);
+border: 2px;
+}
